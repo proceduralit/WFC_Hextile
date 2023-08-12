@@ -1,3 +1,8 @@
 ﻿Houdini/Models/OBJ/
 Houdini/backup
 Houdini/otls/backup
+
+# UE
+WFC_Hextile_UE/Intermediate/*
+WFC_Hextile_UE/Saved/*
+WFC_Hextile_UE/DerivedDataCache/*
