@@ -1,4 +1,3 @@
-# WIP
 # Wave Function Collapse - Hextile Solver - Houdini HDA
 Wave function collapse solver for hexagon tiles - Houdini HDA
 
