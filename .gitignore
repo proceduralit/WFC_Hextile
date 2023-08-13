@@ -1,4 +1,5 @@
-﻿Houdini/Models/OBJ/
+﻿Houdini/Models/OBJ/*.obj
+Houdini/Models/OBJ/*.mtl
 Houdini/backup
 Houdini/otls/backup
 
