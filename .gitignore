@@ -1,8 +1,5 @@
 ﻿Houdini/Models/OBJ/*.obj
 Houdini/Models/OBJ/*.mtl
-Houdini/Models/BGEO/*.bgeo
-Houdini/Models/BGEO/JSON_ALL/*.json
-Houdini/Models/Options/*.bgeo
 Houdini/backup
 Houdini/otls/backup
 
